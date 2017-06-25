@@ -1,1 +1,1 @@
-Æô¶¯ÏîÄ¿£º npm run dev
+start project£º npm run dev
